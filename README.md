@@ -7,4 +7,9 @@ I've learned over 10 programming languages over 2 years. Building things and mee
 # How?
 I've spent my free time mainly working on music services, as I love music and find developing with it quite amazing. When I'm not coding on my free time, I'm probably working on my photography hobby or learning new things. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elucid503&theme=github_dark_dimmed&layout=compact)
+- [My Portfolio Site](https://elucid.vip)
+- [Sprout](https://sproutsoftware.xyz)
+
+# Reach Out!
+Feel free to reach out to me on various platforms. I usually am active on Discord, and my tag is Elucid#0503
+
