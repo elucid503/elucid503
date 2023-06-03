@@ -10,6 +10,6 @@ I've spent my free time mainly working on music services, as I love music and fi
 - [My Portfolio Site](https://elucid.vip)
 - [Sprout](https://sproutsoftware.xyz)
 
-# Reach Out!
+## Reach Out!
 Feel free to reach out to me on various platforms. I usually am active on Discord, and my tag is Elucid#0503
 
