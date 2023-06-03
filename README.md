@@ -1,7 +1,7 @@
 # Hello World!
 I'm Elucid, a developer from New York. I manage a non-profit startup Sprout, where I work on whatever I'm told is impossible. Aside from always trying to innovate, I love to perfect my work, and I never give up. Innovating requires failing.
 
-- [My Portfolio Site](https://elucid.vip)
+- [My Portfolio](https://elucid.vip)
 - [Sprout](https://sproutsoftware.xyz)
 
 # Why?
