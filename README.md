@@ -7,4 +7,5 @@ I've learned over 10 programming languages over 2 years. Building things and mee
 # How?
 I've spent my free time mainly working on music services, as I love music and find developing with it quite amazing. When I'm not coding on my free time, I'm probably working on my photography hobby or learning new things. 
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=elucid503&count_private=true&show_icons=true&hide=contribs&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elucid503&layout=compact&theme=github_dark_dimmed)
