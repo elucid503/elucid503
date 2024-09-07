@@ -1,5 +1,5 @@
 # Hello World!
-I'm Elucid, a developer from New York, studing computer science in Connecticut. I manage a growing startup: Sprout, where I work on big projects. What I beleive sets me apart is that I genuinely enjoy perfecting my work. 
+I'm Paul, a developer from New York, studing computer science in Connecticut. I manage a growing startup: Sprout, where I work on big projects. What I beleive sets me apart is that I genuinely enjoy perfecting my work. 
 
 - [My Portfolio](https://elucid.vip)
 - [Sprout](https://sproutsoftware.xyz)
