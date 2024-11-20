@@ -13,3 +13,4 @@ I've spent my free time mainly working on music services, as I love music and fi
 ## Reach Out!
 Feel free to reach out to me on various platforms, my username is usually elucid503
 
+* Lots of my repos are private, and some shown below may be old!
